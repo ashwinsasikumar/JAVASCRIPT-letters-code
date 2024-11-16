@@ -1,0 +1,26 @@
+#container{
+    margin-top: 200px;
+    margin-left: 420px;
+    display:flex ;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 400px;
+    width: 500px;
+    background-color: rgb(170, 170, 170);
+}
+#main{
+    background-color: black;
+}
+#tbox{
+    display:flex ;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height:160px;
+    width: 400px;
+    background-color: cadetblue;
+}
+#ans{
+    padding-right: 80px;
+}
